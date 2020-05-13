@@ -1,6 +1,6 @@
 # Statistical Program
 
-Simple program solving basic statistical probleblems like mood, avg and sorting generated arrays of numbers.
+Simple program solving basic statistical proleblems like mood, avg and sorting generated arrays of numbers.
 
 ## Installation
 
