@@ -4,14 +4,9 @@ Simple program solving basic statistical probleblems like mood, avg and sorting 
 
 ## Installation
 
-Simply download files and unpack.
-
-```bash
-pip install foobar
-```
 
 ## Usage
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Contributing
