@@ -1,4 +1,4 @@
-# statistical program
+# Statistical Program
 
 Simple program solving basic statistical probleblems like mood, avg and sorting generated arrays of numbers.
 
@@ -10,6 +10,10 @@ Open program with .appref-ms file.
 ## Usage
 ![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
 
+
+## Built
+
+Program made using C# and .NET Framework
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
