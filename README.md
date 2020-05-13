@@ -4,6 +4,7 @@ Simple program solving basic statistical probleblems like mood, avg and sorting 
 
 ## Installation
 
+Simply download files from this repository as ZIP and unpack them on your computer.
 
 ## Usage
 ![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
