@@ -6,7 +6,7 @@ Simple program solving basic statistical probleblems like mood, avg and sorting 
 
 
 ## Usage
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
 
 
 ## Contributing
