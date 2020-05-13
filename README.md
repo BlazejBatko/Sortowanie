@@ -4,7 +4,8 @@ Simple program solving basic statistical probleblems like mood, avg and sorting 
 
 ## Installation
 
-Simply download files from this repository as ZIP and unpack them on your computer.
+Simply download files from this repository as ZIP and unpack them on your computer. 
+Open program with .appref-ms file.
 
 ## Usage
 ![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
